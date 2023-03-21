@@ -1,0 +1,38 @@
+2023-03-05 00:02:50.536 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.getAllemployees(TC001_Get_All_Employees.java:20)] - *****Started TC001_Get_All_Employees**********
+2023-03-05 00:02:55.807 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:29)] - *********Checking status code*********
+2023-03-05 00:02:55.808 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:39)] - The status code is -->200
+2023-03-05 00:02:55.822 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:49)] - ************Checking response time**********
+2023-03-05 00:02:55.824 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:53)] - The response time is -->1783.0
+2023-03-05 00:02:55.829 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:63)] - **********Checking the status line*********
+2023-03-05 00:02:55.829 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:65)] - Status line is-->HTTP/1.1 200 OK
+2023-03-05 00:02:55.834 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseBody(TC001_Get_All_Employees.java:73)] - *********Checking response body*********
+2023-03-05 00:02:55.856 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:80)] - *******Checking content type from response header
+2023-03-05 00:02:55.857 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:82)] - Content type is-->application/json
+2023-03-05 00:02:55.860 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.tearDown(TC001_Get_All_Employees.java:104)] - ******* Test case execution for TC001_Get_All_Employees is completed*************
+2023-03-05 00:03:21.907 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.getAllemployees(TC001_Get_All_Employees.java:20)] - *****Started TC001_Get_All_Employees**********
+2023-03-05 00:03:27.195 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:29)] - *********Checking status code*********
+2023-03-05 00:03:27.196 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:34)] - Retrying-->1
+2023-03-05 00:03:31.356 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:34)] - Retrying-->2
+2023-03-05 00:03:35.737 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:34)] - Retrying-->3
+2023-03-05 00:03:39.937 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:34)] - Retrying-->4
+2023-03-05 00:03:44.063 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:34)] - Retrying-->5
+2023-03-05 00:03:48.205 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:39)] - The status code is -->429
+2023-03-05 00:03:48.223 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:49)] - ************Checking response time**********
+2023-03-05 00:03:48.225 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:53)] - The response time is -->1129.0
+2023-03-05 00:03:48.228 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:63)] - **********Checking the status line*********
+2023-03-05 00:03:48.229 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:65)] - Status line is-->HTTP/1.1 429 Too Many Requests
+2023-03-05 00:03:48.233 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseBody(TC001_Get_All_Employees.java:73)] - *********Checking response body*********
+2023-03-05 00:03:48.258 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:80)] - *******Checking content type from response header
+2023-03-05 00:03:48.258 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:82)] - Content type is-->text/html; charset=UTF-8
+2023-03-05 00:03:48.262 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.tearDown(TC001_Get_All_Employees.java:104)] - ******* Test case execution for TC001_Get_All_Employees is completed*************
+2023-03-05 00:04:49.338 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.getAllemployees(TC001_Get_All_Employees.java:20)] - *****Started TC001_Get_All_Employees**********
+2023-03-05 00:04:56.386 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:29)] - *********Checking status code*********
+2023-03-05 00:04:56.387 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:39)] - The status code is -->200
+2023-03-05 00:04:56.397 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:49)] - ************Checking response time**********
+2023-03-05 00:04:56.399 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseTime(TC001_Get_All_Employees.java:53)] - The response time is -->3558.0
+2023-03-05 00:04:56.404 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:63)] - **********Checking the status line*********
+2023-03-05 00:04:56.405 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkStatusLine(TC001_Get_All_Employees.java:65)] - Status line is-->HTTP/1.1 200 OK
+2023-03-05 00:04:56.409 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkResponseBody(TC001_Get_All_Employees.java:73)] - *********Checking response body*********
+2023-03-05 00:04:56.429 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:80)] - *******Checking content type from response header
+2023-03-05 00:04:56.430 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.checkContentType(TC001_Get_All_Employees.java:82)] - Content type is-->application/json
+2023-03-05 00:04:56.433 INFO [main] [com.employeeapi.testcases.TC001_Get_All_Employees.tearDown(TC001_Get_All_Employees.java:104)] - ******* Test case execution for TC001_Get_All_Employees is completed*************
